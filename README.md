@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darty16
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python 3.7
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: dzalli@live.com
 
 <!---
